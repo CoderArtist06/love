@@ -20,6 +20,10 @@ In this repository, you will find two files that contain the same code:
 - `love.txt`: This file contains the same code, but in text format. It was created to facilitate the adaptation and modification of the code on different computers.
 Some users may encounter compatibility issues, so the .txt file allows for greater flexibility in modifying the code before compilation.
 
+<br>
+<br>
+<br>
+<br>
 
 ## Descrizione IT
 
