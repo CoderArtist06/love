@@ -1,7 +1,6 @@
 # love
 
-## UK
-## Description
+## Description UK
 
 LOVE is a project that generates a pulsating heart using a mathematical equation. 
 This code is a fun way to explore mathematical visualization through programming in C, combining art and logic in a single application.
@@ -22,8 +21,7 @@ In this repository, you will find two files that contain the same code:
 Some users may encounter compatibility issues, so the .txt file allows for greater flexibility in modifying the code before compilation.
 
 
-## IT
-## Descrizione
+## Descrizione IT
 
 LOVE è un progetto che genera un cuore pulsante utilizzando un'equazione matematica. 
 Questo codice è un modo divertente per esplorare la visualizzazione matematica attraverso la programmazione in C, combinando arte e logica in un'unica applicazione.
